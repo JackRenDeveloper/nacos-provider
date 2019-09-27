@@ -4,7 +4,7 @@ spring:
   cloud:
     nacos:
       config:
-        server-addr: elvis.ziyun56.com:18483
+        server-addr: 192.168.4.201:18083
         file-extension: yaml
         prefix: nacos-provider
   profiles:
